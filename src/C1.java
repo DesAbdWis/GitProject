@@ -4,5 +4,6 @@ public class C1 {
 
         System.out.println("Locale dan merhaba");
         System.out.println("2.kez merhaba");
+         System.out.println("Remote dan merhaba");
     }
 }
